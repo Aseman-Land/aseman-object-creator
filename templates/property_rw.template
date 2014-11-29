@@ -1,0 +1,2 @@
+    Q_PROPERTY(%type %name READ %name WRITE set%cname NOTIFY %nameChanged)
+%properties

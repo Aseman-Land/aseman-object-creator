@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>templates/class.template</file>
+        <file>templates/property_r.template</file>
+        <file>templates/property_rw.template</file>
+        <file>templates/variables.template</file>
+        <file>templates/body_notify.template</file>
+        <file>templates/body_read.template</file>
+        <file>templates/body_write.template</file>
+        <file>templates/presets.template</file>
+        <file>templates/equals.template</file>
+        <file>templates/initialize.template</file>
+        <file>templates/file.template</file>
+    </qresource>
+</RCC>

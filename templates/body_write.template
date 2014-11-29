@@ -1,0 +1,7 @@
+    void set%cname(%type value) {
+        if( value == _%name )
+            return;
+        _%name = value;
+        emit %nameChanged();
+        emit changed();
+    }
