@@ -36,8 +36,8 @@ int main(int argc, char *argv[])
     QCoreApplication app(argc, argv);
     const QStringList & args = app.arguments();
 
-    QString src;
-    QString dst;
+    QString src = "/home/bardia/stickers.vco";
+    QString dst = "/home/bardia/stickers.h";
 
     QSet<QString> twice_checker;
     ObjectCreator creator;
